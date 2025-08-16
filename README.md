@@ -18,3 +18,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2025-08-15 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-08-16 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-08-16 |
+| LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-08-16 |
