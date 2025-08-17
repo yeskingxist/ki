@@ -19,3 +19,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-08-16 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-08-16 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-08-16 |
+| LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2025-08-17 |
