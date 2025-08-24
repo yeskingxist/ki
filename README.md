@@ -34,3 +34,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2025-08-22 |
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-08-22 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-08-23 |
+| LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-08-24 |
