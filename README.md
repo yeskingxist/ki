@@ -37,3 +37,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-08-24 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-08-24 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-08-26 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-08-26 |
