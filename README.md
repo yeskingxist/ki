@@ -60,3 +60,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-09-04 |
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2025-09-04 |
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2025-09-04 |
+| LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2025-09-05 |
