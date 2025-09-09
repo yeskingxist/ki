@@ -65,3 +65,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-09-08 |
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2025-09-08 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-09-08 |
+| LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-09-09 |
