@@ -77,3 +77,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-09-13 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-09-15 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2025-09-15 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-09-16 |
