@@ -79,3 +79,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2025-09-15 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-09-16 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-09-17 |
+| LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-09-17 |
