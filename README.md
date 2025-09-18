@@ -81,3 +81,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-09-17 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-09-17 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-09-17 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-09-18 |
