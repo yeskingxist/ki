@@ -89,3 +89,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2025-09-21 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-09-21 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-09-21 |
+| LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-09-22 |
