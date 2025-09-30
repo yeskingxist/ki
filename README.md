@@ -107,3 +107,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-09-29 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-09-29 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2025-09-29 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-09-30 |
