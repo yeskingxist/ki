@@ -109,3 +109,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2025-09-29 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-09-30 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-09-30 |
+| LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2025-10-01 |
