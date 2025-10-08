@@ -122,3 +122,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-10-06 |
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2025-10-06 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-10-07 |
+| LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-10-08 |
