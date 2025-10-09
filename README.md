@@ -126,3 +126,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-10-08 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-10-08 |
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2025-10-09 |
+| LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-10-09 |
