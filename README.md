@@ -153,3 +153,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-10-19 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-10-19 |
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-10-19 |
+| LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2025-10-20 |
