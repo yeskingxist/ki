@@ -166,3 +166,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-10-27 |
 | LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2025-10-27 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-10-29 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-10-29 |
