@@ -178,3 +178,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2025-11-03 |
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-11-04 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2025-11-04 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-11-04 |
