@@ -188,3 +188,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-11-09 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-11-09 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-11-11 |
+| LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-11-12 |
