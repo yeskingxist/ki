@@ -199,3 +199,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-11-16 |
 | LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2025-11-16 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-11-17 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-11-17 |
