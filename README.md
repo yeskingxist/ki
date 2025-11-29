@@ -219,3 +219,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-11-27 |
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-11-27 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-11-29 |
+| LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-11-29 |
