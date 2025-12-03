@@ -227,3 +227,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-12-02 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-12-02 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-12-02 |
+| LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-12-03 |
