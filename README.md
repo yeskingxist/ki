@@ -229,3 +229,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-12-02 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2025-12-03 |
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-12-04 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-12-04 |
