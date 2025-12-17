@@ -250,3 +250,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2025-12-15 |
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2025-12-16 |
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2025-12-16 |
+| LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2025-12-17 |
