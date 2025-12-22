@@ -259,3 +259,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2025-12-19 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2025-12-20 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-12-20 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-12-22 |
