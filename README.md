@@ -265,3 +265,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2025-12-23 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2025-12-23 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2025-12-24 |
+| LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2025-12-24 |
