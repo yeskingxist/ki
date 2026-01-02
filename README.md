@@ -282,3 +282,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-01-01 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-01-01 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-01-02 |
+| LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-01-02 |
