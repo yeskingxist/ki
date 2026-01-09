@@ -295,3 +295,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-01-07 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-01-09 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-01-09 |
+| LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-01-09 |
