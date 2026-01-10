@@ -297,3 +297,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-01-09 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-01-09 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-01-10 |
+| LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-01-10 |
