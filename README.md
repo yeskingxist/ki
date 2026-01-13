@@ -302,3 +302,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-01-11 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-01-11 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2026-01-12 |
+| LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2026-01-13 |
