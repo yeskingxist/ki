@@ -311,3 +311,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-01-15 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-01-15 |
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2026-01-16 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-01-16 |
