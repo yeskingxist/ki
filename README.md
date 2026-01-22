@@ -319,3 +319,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-01-20 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-01-20 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2026-01-21 |
+| LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-01-22 |
