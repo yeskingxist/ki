@@ -333,3 +333,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-01-29 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-01-29 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-01-30 |
+| LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-01-30 |
