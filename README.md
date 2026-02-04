@@ -341,3 +341,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-02-03 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-02-03 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-02-03 |
+| LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-02-04 |
