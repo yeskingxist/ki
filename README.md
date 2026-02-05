@@ -343,3 +343,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-02-03 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-02-04 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-02-04 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-02-05 |
