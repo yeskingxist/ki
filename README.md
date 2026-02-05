@@ -345,3 +345,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-02-04 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-02-05 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-02-05 |
+| LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-02-05 |
