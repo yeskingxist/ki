@@ -360,3 +360,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2026-02-14 |
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2026-02-14 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-02-14 |
+| LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-02-15 |
