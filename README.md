@@ -367,3 +367,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-02-16 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-02-17 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-02-17 |
+| LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-02-17 |
