@@ -368,3 +368,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-02-17 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-02-17 |
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-02-17 |
+| LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-02-18 |
