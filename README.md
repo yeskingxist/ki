@@ -385,3 +385,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-02-27 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-02-27 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-03-02 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-03-02 |
