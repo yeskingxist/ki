@@ -434,3 +434,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-03-28 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-03-28 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-03-28 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-03-29 |
