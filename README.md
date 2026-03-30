@@ -436,3 +436,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-03-28 |
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-03-29 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-03-29 |
+| LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2026-03-30 |
