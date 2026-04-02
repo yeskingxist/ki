@@ -441,3 +441,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2026-03-31 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-04-01 |
 | LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-04-02 |
+| LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-04-02 |
