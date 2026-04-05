@@ -447,3 +447,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2026-04-04 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-04-05 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-04-05 |
+| LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-04-05 |
