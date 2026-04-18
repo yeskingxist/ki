@@ -466,3 +466,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-04-17 |
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2026-04-17 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-04-17 |
+| LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-04-18 |
