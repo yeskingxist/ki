@@ -469,3 +469,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-04-18 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-04-19 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-04-20 |
+| LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-04-20 |
