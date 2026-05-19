@@ -522,3 +522,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-05-18 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-05-18 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-05-19 |
+| LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-05-19 |
