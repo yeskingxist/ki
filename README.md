@@ -521,3 +521,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-05-18 |
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-05-18 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-05-18 |
+| LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-05-19 |
