@@ -524,3 +524,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-05-19 |
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-05-19 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-05-20 |
+| LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2026-05-21 |
