@@ -530,3 +530,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2026-05-24 |
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-05-24 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-05-25 |
+| LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-05-25 |
