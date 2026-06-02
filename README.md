@@ -548,3 +548,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-05-31 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-06-01 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-06-02 |
+| LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-06-02 |
