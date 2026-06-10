@@ -560,3 +560,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-06-08 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-06-08 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-06-09 |
+| LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-06-10 |
