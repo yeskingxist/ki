@@ -565,3 +565,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-06-11 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-06-11 |
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-06-12 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-06-12 |
