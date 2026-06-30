@@ -588,3 +588,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Two Sum](./LeetCode/Two-Sum) | Easy | Python | 2026-06-25 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-06-28 |
 | LeetCode | [Longest Substring Without Repeating Characters](./LeetCode/Longest-Substring-Without-Repeating-Characters) | Medium | Python | 2026-06-29 |
+| LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2026-06-30 |
