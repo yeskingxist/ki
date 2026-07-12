@@ -607,3 +607,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-07-10 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-07-10 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-07-10 |
+| LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-07-12 |
