@@ -620,3 +620,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-07-17 |
 | LeetCode | [Valid Parentheses](./LeetCode/Valid-Parentheses) | Easy | Python | 2026-07-17 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-07-17 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-07-18 |
