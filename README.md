@@ -623,3 +623,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-07-18 |
 | LeetCode | [Merge Two Sorted Lists](./LeetCode/Merge-Two-Sorted-Lists) | Easy | Python | 2026-07-18 |
 | LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-07-18 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-07-20 |
