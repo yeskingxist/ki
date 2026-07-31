@@ -646,3 +646,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-07-30 |
 | LeetCode | [Reverse Linked List](./LeetCode/Reverse-Linked-List) | Easy | Python | 2026-07-31 |
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-07-31 |
+| LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-07-31 |
