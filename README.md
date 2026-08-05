@@ -652,3 +652,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-08-03 |
 | LeetCode | [Maximum Subarray](./LeetCode/Maximum-Subarray) | Medium | Python | 2026-08-04 |
 | LeetCode | [Binary Search](./LeetCode/Binary-Search) | Easy | Python | 2026-08-04 |
+| LeetCode | [Climbing Stairs](./LeetCode/Climbing-Stairs) | Easy | Python | 2026-08-05 |
