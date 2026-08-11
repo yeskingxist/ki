@@ -664,3 +664,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Container With Most Water](./LeetCode/Container-With-Most-Water) | Medium | Python | 2026-08-11 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-08-11 |
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-08-11 |
+| LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-08-11 |
