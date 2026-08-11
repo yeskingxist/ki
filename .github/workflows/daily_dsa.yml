@@ -1,0 +1,36 @@
+name: Daily DSA Commit Bot
+
+on:
+  schedule:
+    # Run once a day at 18:00 UTC (11:30 PM IST)
+    - cron: "0 18 * * *"
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-python: "3.10"
+          
+      - name: Run Daily Solves
+        run: |
+          python daily_commit.py
+          
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          # Check if there are changes to commit to prevent workflow failure
+          git diff --quiet && git diff --staged --quiet || (git commit -m "sol: LeetCode Daily Automatic Solve" && git push)
