@@ -666,3 +666,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [3Sum](./LeetCode/3Sum) | Medium | Python | 2026-08-11 |
 | LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-08-11 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-08-12 |
+| LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-08-13 |
