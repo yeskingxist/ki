@@ -670,3 +670,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Palindrome](./LeetCode/Valid-Palindrome) | Easy | Python | 2026-08-14 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-08-15 |
 | LeetCode | [Valid Palindrome](./LeetCode/Valid-Palindrome) | Easy | Python | 2026-08-16 |
+| LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-08-17 |
