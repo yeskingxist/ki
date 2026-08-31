@@ -683,3 +683,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-08-28 |
 | LeetCode | [Merge k Sorted Lists](./LeetCode/Merge-k-Sorted-Lists) | Hard | Python | 2026-08-29 |
 | LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-08-30 |
+| LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-08-31 |
