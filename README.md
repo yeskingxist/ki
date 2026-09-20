@@ -703,3 +703,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-17 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-18 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-19 |
+| LeetCode | [Merge k Sorted Lists](./LeetCode/Merge-k-Sorted-Lists) | Hard | Python | 2026-09-20 |
