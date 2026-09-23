@@ -706,3 +706,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Merge k Sorted Lists](./LeetCode/Merge-k-Sorted-Lists) | Hard | Python | 2026-09-20 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-21 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-22 |
+| LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-23 |
