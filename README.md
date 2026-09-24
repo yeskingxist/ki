@@ -707,3 +707,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-21 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-22 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-23 |
+| LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-09-24 |
