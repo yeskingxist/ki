@@ -715,3 +715,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Palindrome](./LeetCode/Valid-Palindrome) | Easy | Python | 2026-09-29 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-09-30 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-10-01 |
+| LeetCode | [Merge k Sorted Lists](./LeetCode/Merge-k-Sorted-Lists) | Hard | Python | 2026-10-02 |
