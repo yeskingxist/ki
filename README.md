@@ -728,3 +728,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-10-13 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-10-13 |
 | LeetCode | [Valid Palindrome](./LeetCode/Valid-Palindrome) | Easy | Python | 2026-10-14 |
+| LeetCode | [Merge k Sorted Lists](./LeetCode/Merge-k-Sorted-Lists) | Hard | Python | 2026-10-15 |
