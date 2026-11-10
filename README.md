@@ -753,3 +753,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Merge k Sorted Lists](./LeetCode/Merge-k-Sorted-Lists) | Hard | Python | 2026-11-07 |
 | LeetCode | [Merge k Sorted Lists](./LeetCode/Merge-k-Sorted-Lists) | Hard | Python | 2026-11-08 |
 | LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-11-10 |
+| LeetCode | [Valid Palindrome](./LeetCode/Valid-Palindrome) | Easy | Python | 2026-11-10 |
