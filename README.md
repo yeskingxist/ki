@@ -760,3 +760,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Valid Palindrome](./LeetCode/Valid-Palindrome) | Easy | Python | 2026-11-14 |
 | LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-11-15 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-11-17 |
+| LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-11-18 |
