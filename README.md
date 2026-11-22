@@ -765,3 +765,4 @@ Automated tracking of LeetCode solutions.
 | LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-11-20 |
 | LeetCode | [Subsets](./LeetCode/Subsets) | Medium | Python | 2026-11-20 |
 | LeetCode | [Merge k Sorted Lists](./LeetCode/Merge-k-Sorted-Lists) | Hard | Python | 2026-11-21 |
+| LeetCode | [Search in Rotated Sorted Array](./LeetCode/Search-in-Rotated-Sorted-Array) | Hard | Python | 2026-11-22 |
